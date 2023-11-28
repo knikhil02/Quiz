@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<time.h>
 #include<direct.h>
 #include<windows.h>
 #include<ctype.h>
